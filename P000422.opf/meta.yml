@@ -1,5 +1,7 @@
 id: P000422
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W4CZ74360
   title: འཁོར་ལོ་སྡོམ་པའི་མངོན་རྟོགས་ནག་འགྲོས་སུ་བཀོད་པ་སོགས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 166
       base_file: v001.txt
-ebook_metadata:
-  title: འཁོར་ལོ་སྡོམ་པའི་མངོན་རྟོགས་ནག་འགྲོས་སུ་བཀོད་པ་སོགས།
-  author: ''
-  sku: P000422
-  cover: cover.jpg
-  layers:
-  - pagination
